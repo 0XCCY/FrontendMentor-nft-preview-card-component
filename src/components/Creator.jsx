@@ -4,7 +4,7 @@ import avatar from "../assets/images/image-avatar.png";
 const Creator = () => {
   return (
     <div>
-      <span className="flex flex-column align-middle">
+      <div className="flex flex-column align-middle">
         <img
           className="max-h-[2rem] border-white border-2 rounded-full mr-4"
           src={avatar}
@@ -14,7 +14,7 @@ const Creator = () => {
         <p className="text-white self-center hover:text-cyan hover:cursor-pointer">
           Jules Wyvern
         </p>
-      </span>
+      </div>
     </div>
   );
 };
