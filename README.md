@@ -54,8 +54,6 @@ Nothing much really. Excited for the next one!
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/0XCCY)
 - Twitter - [@0xCCY](https://www.twitter.com/0xCCY)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
 ## Acknowledgments
 
 [Frontend Mentor](https://www.frontendmentor.io/home) - For making this awesome challenge!
